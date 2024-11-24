@@ -1,0 +1,9 @@
+source {
+url:"https://example.com"
+icon:"reddit"
+}
+
+source {
+url:"https://example2.com"
+icon:"facebook"
+}
