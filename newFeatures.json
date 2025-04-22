@@ -1,0 +1,27 @@
+[
+  {
+    "id" : "F15299DA-3232-4747-A463-A69BD7900237",
+    "icon" : "apple.logo",
+    "description" : "This is a really brand new feature! wow! theres so many new features",
+    "title" : "A brand new Feature"
+  },
+  {
+    "id" : "029813BA-EBF5-4632-8F2D-D3931B9BE535",
+    "icon" : "circle.fill",
+    "description" : "This is also a new Feature",
+    "title" : "Another new Feature"
+  },
+  {
+    "id" : "DFF2E067-BD86-422B-ABFA-4102BE3860C6",
+    "icon" : "square.fill",
+    "description" : "As i said, a lot of new Features!",
+    "title" : "Yet another new Feature"
+  },
+  {
+    "id" : "D6133B8C-2C7A-493C-9FB5-1E6FB5EA98F5",
+    "icon" : "triangle.fill",
+    "description" : "But hey look! Custom Tint Color for singular Features!",
+    "tintColor" : "FFFF453A",
+    "title" : "I'm running out of ideas"
+  }
+]
