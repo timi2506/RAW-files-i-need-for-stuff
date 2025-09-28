@@ -1,3 +1,5 @@
+WARNUNG: Diese Anleitung wurde von KI mithilfe des Codes der App geschrieben!
+
 # Canstein Video Player – Benutzerhandbuch
 
 Willkommen zum **Canstein Video Player**!  
