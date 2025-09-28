@@ -1,5 +1,3 @@
-WARNUNG: Diese Anleitung wurde von KI mithilfe des Codes der App geschrieben!
-
 # Canstein Video Player – Benutzerhandbuch
 
 Willkommen zum **Canstein Video Player**!  
@@ -72,7 +70,7 @@ Die **Video-Bibliothek** listet alle gespeicherten Videos und ermöglicht deren 
 ---
 
 ## Gestensteuerung
-Der Admin Bereich der App kann durch eine **Gestenfolge** entsperrt werden.  
+Die App kann durch eine **Gestenfolge** entsperrt werden.  
 
 ### Zugriffsgeste anpassen
 - Standard-Gestenfolge: **Tippen, Tippen, Langes Drücken, Wischen**  
@@ -122,7 +120,7 @@ Optional kann ein **Passcode** eingerichtet werden, um den Admin-Bereich zusätz
 - **Vorschau-Bild**: Jedes Video zeigt eine kleine Miniaturansicht (QuickLook-Thumbnail).  
 - **Automatisches Speichern**: Änderungen an Reihenfolge, Gesten oder Passcodes werden automatisch gespeichert.  
 - **Zurücksetzen & Animationen**: Gestenfolgen setzen sich automatisch nach einigen Sekunden zurück, falls nicht vollständig eingegeben.  
-- **Notfall-Reset**: In den normalen iOS-Einstellungen (unter „Canstein Video Player“) gibt es ein **SettingsBundle** mit dem Schalter  
+- **Notfall-Reset**: In den normalen iOS-Einstellungen (unter Apps -> „CVideo“) gibt es ein Menu mit dem Schalter  
   **„App beim nächsten Start zurücksetzen“**.  
   - Wenn dieser aktiviert wird, setzt die App beim nächsten Start **nur die Sicherheits-Einstellungen (Passcode und Gestenfolge)** zurück.  
   - **Videos bleiben dabei erhalten.**  
