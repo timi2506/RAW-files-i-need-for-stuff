@@ -72,7 +72,7 @@ Die **Video-Bibliothek** listet alle gespeicherten Videos und ermöglicht deren 
 ---
 
 ## Gestensteuerung
-Die App kann durch eine **Gestenfolge** entsperrt werden.  
+Der Admin Bereich der App kann durch eine **Gestenfolge** entsperrt werden.  
 
 ### Zugriffsgeste anpassen
 - Standard-Gestenfolge: **Tippen, Tippen, Langes Drücken, Wischen**  
